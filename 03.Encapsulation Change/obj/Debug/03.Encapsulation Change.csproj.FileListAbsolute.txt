@@ -1,0 +1,14 @@
+E:\Github\Design-Pattern\DesignPattern\03.Encapsulation Change\bin\Debug\03.Encapsulation Change.exe.config
+E:\Github\Design-Pattern\DesignPattern\03.Encapsulation Change\bin\Debug\03.Encapsulation Change.exe
+E:\Github\Design-Pattern\DesignPattern\03.Encapsulation Change\bin\Debug\03.Encapsulation Change.pdb
+E:\Github\Design-Pattern\DesignPattern\03.Encapsulation Change\obj\Debug\03.Encapsulation Change.csprojAssemblyReference.cache
+E:\Github\Design-Pattern\DesignPattern\03.Encapsulation Change\obj\Debug\03.Encapsulation Change.csproj.CoreCompileInputs.cache
+E:\Github\Design-Pattern\DesignPattern\03.Encapsulation Change\obj\Debug\03.Encapsulation Change.exe
+E:\Github\Design-Pattern\DesignPattern\03.Encapsulation Change\obj\Debug\03.Encapsulation Change.pdb
+E:\Github\DesignPatterns\03.Encapsulation Change\bin\Debug\03.Encapsulation Change.exe.config
+E:\Github\DesignPatterns\03.Encapsulation Change\bin\Debug\03.Encapsulation Change.exe
+E:\Github\DesignPatterns\03.Encapsulation Change\bin\Debug\03.Encapsulation Change.pdb
+E:\Github\DesignPatterns\03.Encapsulation Change\obj\Debug\03.Encapsulation Change.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\03.Encapsulation Change\obj\Debug\03.Encapsulation Change.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\03.Encapsulation Change\obj\Debug\03.Encapsulation Change.exe
+E:\Github\DesignPatterns\03.Encapsulation Change\obj\Debug\03.Encapsulation Change.pdb

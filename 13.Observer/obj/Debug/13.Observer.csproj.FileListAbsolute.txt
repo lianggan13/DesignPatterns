@@ -1,0 +1,14 @@
+E:\Github\Design-Pattern\DesignPattern\13.Observer\obj\Debug\13.Observer.csprojAssemblyReference.cache
+E:\Github\Design-Pattern\DesignPattern\13.Observer\obj\Debug\13.Observer.csproj.CoreCompileInputs.cache
+E:\Github\Design-Pattern\DesignPattern\13.Observer\bin\Debug\13.Observer.exe.config
+E:\Github\Design-Pattern\DesignPattern\13.Observer\bin\Debug\13.Observer.exe
+E:\Github\Design-Pattern\DesignPattern\13.Observer\bin\Debug\13.Observer.pdb
+E:\Github\Design-Pattern\DesignPattern\13.Observer\obj\Debug\13.Observer.exe
+E:\Github\Design-Pattern\DesignPattern\13.Observer\obj\Debug\13.Observer.pdb
+E:\Github\DesignPatterns\13.Observer\bin\Debug\13.Observer.exe.config
+E:\Github\DesignPatterns\13.Observer\bin\Debug\13.Observer.exe
+E:\Github\DesignPatterns\13.Observer\bin\Debug\13.Observer.pdb
+E:\Github\DesignPatterns\13.Observer\obj\Debug\13.Observer.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\13.Observer\obj\Debug\13.Observer.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\13.Observer\obj\Debug\13.Observer.exe
+E:\Github\DesignPatterns\13.Observer\obj\Debug\13.Observer.pdb

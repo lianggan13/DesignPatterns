@@ -1,0 +1,14 @@
+E:\Github\Design-Pattern\DesignPattern\10.Strategy\bin\Debug\10.Strategy.exe.config
+E:\Github\Design-Pattern\DesignPattern\10.Strategy\bin\Debug\10.Strategy.exe
+E:\Github\Design-Pattern\DesignPattern\10.Strategy\bin\Debug\10.Strategy.pdb
+E:\Github\Design-Pattern\DesignPattern\10.Strategy\obj\Debug\10.Strategy.csprojAssemblyReference.cache
+E:\Github\Design-Pattern\DesignPattern\10.Strategy\obj\Debug\10.Strategy.csproj.CoreCompileInputs.cache
+E:\Github\Design-Pattern\DesignPattern\10.Strategy\obj\Debug\10.Strategy.exe
+E:\Github\Design-Pattern\DesignPattern\10.Strategy\obj\Debug\10.Strategy.pdb
+E:\Github\DesignPatterns\10.Strategy\bin\Debug\10.Strategy.exe.config
+E:\Github\DesignPatterns\10.Strategy\bin\Debug\10.Strategy.exe
+E:\Github\DesignPatterns\10.Strategy\bin\Debug\10.Strategy.pdb
+E:\Github\DesignPatterns\10.Strategy\obj\Debug\10.Strategy.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\10.Strategy\obj\Debug\10.Strategy.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\10.Strategy\obj\Debug\10.Strategy.exe
+E:\Github\DesignPatterns\10.Strategy\obj\Debug\10.Strategy.pdb
