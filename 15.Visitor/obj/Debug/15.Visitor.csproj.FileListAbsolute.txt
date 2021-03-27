@@ -1,0 +1,7 @@
+E:\Github\DesignPatterns\15.Visitor\bin\Debug\15.Visitor.exe.config
+E:\Github\DesignPatterns\15.Visitor\bin\Debug\15.Visitor.exe
+E:\Github\DesignPatterns\15.Visitor\bin\Debug\15.Visitor.pdb
+E:\Github\DesignPatterns\15.Visitor\obj\Debug\15.Visitor.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\15.Visitor\obj\Debug\15.Visitor.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\15.Visitor\obj\Debug\15.Visitor.exe
+E:\Github\DesignPatterns\15.Visitor\obj\Debug\15.Visitor.pdb

@@ -1,0 +1,7 @@
+E:\Github\DesignPatterns\14.Proxy\bin\Debug\14.Proxy.exe.config
+E:\Github\DesignPatterns\14.Proxy\bin\Debug\14.Proxy.exe
+E:\Github\DesignPatterns\14.Proxy\bin\Debug\14.Proxy.pdb
+E:\Github\DesignPatterns\14.Proxy\obj\Debug\14.Proxy.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\14.Proxy\obj\Debug\14.Proxy.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\14.Proxy\obj\Debug\14.Proxy.exe
+E:\Github\DesignPatterns\14.Proxy\obj\Debug\14.Proxy.pdb

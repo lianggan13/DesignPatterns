@@ -1,0 +1,7 @@
+E:\Github\DesignPatterns\16.MultiPattern\bin\Debug\16.MultiPattern.exe.config
+E:\Github\DesignPatterns\16.MultiPattern\bin\Debug\16.MultiPattern.exe
+E:\Github\DesignPatterns\16.MultiPattern\bin\Debug\16.MultiPattern.pdb
+E:\Github\DesignPatterns\16.MultiPattern\obj\Debug\16.MultiPattern.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\16.MultiPattern\obj\Debug\16.MultiPattern.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\16.MultiPattern\obj\Debug\16.MultiPattern.exe
+E:\Github\DesignPatterns\16.MultiPattern\obj\Debug\16.MultiPattern.pdb
