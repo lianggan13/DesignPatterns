@@ -47,6 +47,7 @@
     <Compile Include="Export\ExportExcelFile.cs" />
     <Compile Include="Export\ExportPDFFile.cs" />
     <Compile Include="Factory\CellFactory.cs" />
+    <Compile Include="Factory\CellFactoryAdapter.cs" />
     <Compile Include="Factory\CrystalFactory.cs" />
     <Compile Include="Factory\CrystalFactoryAdapter.cs" />
     <Compile Include="Factory\ReportFactory.cs" />
@@ -64,6 +65,7 @@
     <Compile Include="Report\CrystalReportData.cs" />
     <Compile Include="Report\CrystaIReportProcessor.cs" />
     <Compile Include="Report\CrystaIReportFormatter.cs" />
+    <Compile Include="Schema\CellSchema.cs" />
     <Compile Include="Schema\CrystalSchema.cs" />
   </ItemGroup>
   <ItemGroup>
